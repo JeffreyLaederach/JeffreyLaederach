@@ -1,3 +1,1 @@
-## About Me
-
-Hi, I’m **@JeffreyLaederach** and welcome to my GitHub! 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyLaederach&layout=compact&langs_count=8&theme=transparent)
